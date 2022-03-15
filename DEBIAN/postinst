@@ -1,0 +1,8 @@
+#!/bin/bash
+#####################################################################################
+
+cp -r /opt/afad-conky/conky_wp /usr/local/bin/
+cp -r /opt/afad-conky/conky.desktop /etc/xdg/autostart
+cp -r /opt/afad-conky/conky.conf /etc/conky/
+chmod 644 /etc/conky/conky.conf
+chmod 644 /etc/xdg/autostart/conky.desktop

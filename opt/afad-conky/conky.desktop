@@ -1,0 +1,19 @@
+[Desktop Entry] 
+Comment[tr]= 
+Comment= 
+Exec=conky_wp 
+GenericName[tr]= 
+GenericName= 
+Icon=system-run 
+MimeType= 
+Name[tr]= afad-conky
+Name= afad-conky
+Path= 
+StartupNotify=true 
+Terminal=false 
+TerminalOptions= 
+Type=Application 
+X-DBUS-ServiceName= 
+X-DBUS-StartupType= 
+X-KDE-SubstituteUID=false 
+X-KDE-Username= 
