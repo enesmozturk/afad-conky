@@ -6,3 +6,4 @@ cp -r /opt/afad-conky/conky.desktop /etc/xdg/autostart
 cp -r /opt/afad-conky/conky.conf /etc/conky/
 chmod 644 /etc/conky/conky.conf
 chmod 644 /etc/xdg/autostart/conky.desktop
+chmod 655 /usr/local/bin/conky_wp
