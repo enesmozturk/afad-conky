@@ -1,14 +1,15 @@
 [Desktop Entry] 
-Comment[tr]= 
-Comment= 
+Comment[tr]= Masaüstü-Yazılar
+Comment= Masaüstü-Yazılar
 Exec=conky_wp 
-GenericName[tr]= 
-GenericName= 
+GenericName[tr]= Masaüstü-Yazılar
+GenericName= Masaüstü-Yazılar
 Icon=system-run 
 MimeType= 
 Name[tr]= afad-conky
 Name= afad-conky
 Path= 
+Hidden=true
 StartupNotify=true 
 Terminal=false 
 TerminalOptions= 
